@@ -8,13 +8,13 @@ Project Status: Work In Progress
 - Tableau Visualizations: Coming Soon
 
 ## Technologies Used
-- Python (Jupyter Notebook)
+- Python 
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
-- Tableau (To be added)
-- Excel (Data cleaning & preparation)
+- Tableau 
+- Excel 
 
 ## Tasks Completed
 | Task                                | Status                                         |
@@ -33,10 +33,10 @@ AirQuality-India-Analysis/
 ├── Daily Air Quality (India).xlsx
 └── daily_air_quality_india_analysis.ipynb
 ├── README.md # Project Documentation
-└── (Tableau Files Coming Soon)
 
-## Upcoming Enhancements
-- Tableau Dashboard visualizations (to be added soon)
+
+## Tableau Enhancements
+- Tableau Dashboard visualizations link : https://public.tableau.com/views/AirQualityAnalystinIndia/AirQualityIndiaOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 - Detailed interpretations and policy-relevant recommendations
 - Enhanced visual aesthetics (labels, titles, annotations)
 - A comprehensive Findings and Conclusion section
